@@ -99,21 +99,21 @@ proxy-groups:
   - {name: 🦉 ZJU内网, type: select, proxies: [🎯 直连]}
   - {name: 📑 ZJU Scholar, type: select, proxies: [🎯 直连, 🚀 节点选择]}
   - {name: 🔍️ Scholar, type: select, proxies: [🎯 直连, 🚀 节点选择]}
-  - {name: 📲 即时通讯, type: select, proxies: [🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
-  - {name: 👥 社交媒体, type: select, proxies: [🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: 🐱 GitHub, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: Ⓜ️ Bing, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: 🤖 AI服务, type: select, proxies: [🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动, 🌐 台湾手动]}
   - {name: 📹 YouTube, type: select, proxies: [🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: 🎥 Netflix, type: select, proxies: [🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: 🎥 AppleTV+, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
-  - {name: 🌎 国外媒体, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: 🦄 谷歌服务, type: select, proxies: [🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: 🍎 苹果服务, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: Ⓜ️ 微软服务, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: 💾 OneDrive, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: 🎮 游戏平台, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: 🎮 Steam, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
+  - {name: 📲 即时通讯, type: select, proxies: [🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
+  - {name: 👥 社交媒体, type: select, proxies: [🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
+  - {name: 🌎 国外媒体, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: ⏬ PT站点, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: 🚀 测速工具, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动]}
   - {name: 🐟 漏网之鱼, type: select, proxies: [🎯 直连, 🚀 节点选择, ♻️ 香港自动, ♻️ 日本自动, ♻️ 狮城自动, ♻️ 美国自动, ♻️ 台湾自动, 🌐 手动节点]}
@@ -166,7 +166,6 @@ rules:
   - RULE-SET,facebook_ip,👥 社交媒体,no-resolve
   - RULE-SET,google_ip,🦄 谷歌服务,no-resolve
   - RULE-SET,netflix_ip,🎥 Netflix,no-resolve
-  - RULE-SET,apple_ip,🍎 苹果服务,no-resolve
   - RULE-SET,cn_domain,🎯 直连
   - RULE-SET,ZJU_ip,🦉 ZJU内网
   - RULE-SET,cn_ip,🎯 直连
@@ -216,7 +215,6 @@ rule-providers:
   facebook_ip: { <<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/facebook.mrs"}
   google_ip: { <<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.mrs"}
   netflix_ip: { <<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.mrs"}
-  apple_ip: { <<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/apple.mrs"}
   cn_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs"}
   ZJU_ip: { <<: *class, url: "https://raw.githubusercontent.com/lugaga11/rule/refs/heads/main/ZJU_Rule/ZJU-IP.list"}
   cn_ip: { <<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs"}
