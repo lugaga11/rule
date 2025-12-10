@@ -1,6 +1,5 @@
 # ZJU 内网
 # 校内直连，校外通过内网穿透或 RVPN 访问
-# IP-CIDR,10.0.0.0/8
 
 # 域名
 DOMAIN-SUFFIX,zju.edu.cn
@@ -13,8 +12,6 @@ DOMAIN-KEYWORD,nexushd
 
 # ZJU School-Bus
 DOMAIN-SUFFIX,zjusec.com
-DOMAIN-SUFFIX,zjusec.net
-DOMAIN-SUFFIX,zjusec.top
 
 # ZJU SCT
 DOMAIN-SUFFIX,zjusct.io
