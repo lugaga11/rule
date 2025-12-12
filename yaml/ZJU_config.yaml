@@ -5,7 +5,7 @@
 # 机场订阅
 proxy-providers:
   Zero:
-    url: "https://dy.zerots.cloud/SmZmRWE3MFFrVTR3WTVZOT9zdWI9MQ==&extend=1"
+    url: " "
     type: http
     interval: 86400
     health-check:
@@ -218,5 +218,6 @@ rule-providers:
   cn_domain: { <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs"}
   ZJU_ip: { <<: *class, url: "https://raw.githubusercontent.com/lugaga11/rule/refs/heads/main/ZJU_Rule/ZJU-IP.list"}
   cn_ip: { <<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs"}
+
 
 
