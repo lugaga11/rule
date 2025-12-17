@@ -11,6 +11,5 @@ DOMAIN-KEYWORD,cc98
 # NexusHD
 DOMAIN-KEYWORD,nexushd
 
-# RVPN
-DOMAIN-SUFFIX,rvpn.zju.edu.cn
+# VPN
 DOMAIN-SUFFIX,webvpn.zju.edu.cn
