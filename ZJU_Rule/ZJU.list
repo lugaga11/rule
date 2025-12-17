@@ -11,15 +11,6 @@ DOMAIN-KEYWORD,cc98
 # NexusHD
 DOMAIN-KEYWORD,nexushd
 
-# ZJU School-Bus
-DOMAIN-SUFFIX,zjusec.com
-
-# ZJU SCT
-DOMAIN-SUFFIX,zjusct.io
-
-# ZJU EVA
-DOMAIN-SUFFIX,zjueva.net
-
 # RVPN
 DOMAIN-SUFFIX,rvpn.zju.edu.cn
 DOMAIN-SUFFIX,webvpn.zju.edu.cn
